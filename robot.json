@@ -1,0 +1,11 @@
+{
+    "oa_user": "xxxxxxxxxx",
+    "oa_pwd": "xxxxx",
+    "baidu_client_id": "xxxxxx",
+    "baidu_client_secret": "xxxxxx",
+    "notion_api_key": "xxxxxxx",
+    "notion_database_id": "xxxxxx",
+    "cc": [
+        "xxxxxx"
+    ]
+}
